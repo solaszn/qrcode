@@ -1,8 +1,8 @@
+
+## Getting Started
 # 
 
 The simplest and fastest way to create applications with a Web UI and a Python backend.
-
-## Getting Started
 - Clone the repo and cd into the directory
 ```sh
 # $ git clone git@github.com:SouravJohar/getting-started-with-eel.git
